@@ -29,6 +29,7 @@ For Windows developers experiencing errors follow these steps:
 
 ### VSCode Setup
 
+
 If you're using VSCode, we recommend these extensions: Auto Rename Tag, EditorConfig for VSCode, Eslint, Github Pull Requests, Gitlens, Javascript and Typescript, Live Share, Solidity, Typescript Hero, Vetur
 
 ## Environment Variables
